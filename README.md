@@ -48,9 +48,7 @@ ncert-exemplar-hub-class-8/
 ## 🖥️ How to Use
 
 1. **Clone this repository**:
-   ```bash
    git clone https://github.com/YOUR_USERNAME/ncert-exemplar-hub-class-8.git
-````
 
 2. **Open the project**:
 
