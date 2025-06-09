@@ -1,4 +1,3 @@
-```markdown
 # 📘 NCERT Exemplar Hub – Class 8
 
 An interactive and modern NCERT Exemplar Hub designed for Class VIII students. Built with HTML, CSS, and JavaScript, this web app provides seamless access to chapter-wise exemplar problems and answer keys for Mathematics and Science.
@@ -115,4 +114,3 @@ Let me know if you want:
 - Step-by-step GitHub push instructions
 
 Happy coding, Sujal!
-```
